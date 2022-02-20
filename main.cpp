@@ -22,7 +22,7 @@ int main()
     cout << "Perimeter is " << length + width << endl;
     cout << "Area is " << length * width<<endl;
 
-    cout << "Enter the first munber." << endl; // Задание 3: Вывод нового числа
+    cout << "Enter the first munber." << endl; // Задание 3: Вывод нового числа.
     cin >> num1;
     cout << "Enter the second number." <<endl;
     cin >> num2;
